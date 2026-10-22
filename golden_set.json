@@ -1,0 +1,22 @@
+[
+    {
+        "pregunta": "¿Qué dimensiones existen en Minecraft?",
+        "documento_id_esperado": "minecraft.md"
+    },
+    {
+        "pregunta": "¿Qué personaje acompaña a Leon durante gran parte de Resident Evil 4?",
+        "documento_id_esperado": "resident_evil_4.md"
+    },
+    {
+        "pregunta": "¿Qué habilidad permite al Caballero adherirse a las paredes en Hollow Knight?",
+        "documento_id_esperado": "hollow_knight.md"
+    },
+    {
+        "pregunta": "¿Qué recurso se utiliza para subir de nivel en Dark Souls?",
+        "documento_id_esperado": "dark_souls.md"
+    },
+    {
+        "pregunta": "¿Qué personaje vende mapas en las diferentes regiones de Hallownest?",
+        "documento_id_esperado": "hollow_knight.md"
+    }
+]

@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.env
+*.pyc
+checkpoints.sqlitecheckpoints.sqlite*
+phoenix.db
+*.log
+.pytest_cache/
+tests/__pycache__/
+*.py[cod]
+.pytest_cache/
